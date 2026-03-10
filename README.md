@@ -106,7 +106,7 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 <img width="1608" height="173" alt="image" src="https://github.com/user-attachments/assets/6d86b099-4d7b-4bca-ad64-be5342f90011" />
 
-![Uploading image.png…]()
+<img width="612" height="108" alt="image" src="https://github.com/user-attachments/assets/73f46c71-9b78-4908-8451-ef297b01d5c6" />
 
 
 ## RESULT
