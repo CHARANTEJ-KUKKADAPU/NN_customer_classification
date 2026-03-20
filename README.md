@@ -13,8 +13,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-
-<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/b74ac659-e26d-4380-81e4-8e2ab5990e86" />
+<img width="901" height="905" alt="image" src="https://github.com/user-attachments/assets/1e23090d-369b-4f42-a7e9-0b76ebdefeb3" />
 
 ## DESIGN STEPS
 
@@ -84,27 +83,28 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-<img width="719" height="283" alt="image" src="https://github.com/user-attachments/assets/858ee1ce-0236-42b9-9700-9f136783418d" />
+<img width="979" height="709" alt="image" src="https://github.com/user-attachments/assets/e2324bb9-0cc5-442c-9c16-c082b17ca98b" />
 
 
 ## OUTPUT
 
+<img width="1287" height="259" alt="image" src="https://github.com/user-attachments/assets/0d349fce-f13f-4050-9a3e-a1ea6263cf32" />
 
 
 ### Confusion Matrix
 
-<img width="826" height="568" alt="image" src="https://github.com/user-attachments/assets/d21334b6-efa3-4a26-a210-a90bc1a14c71" />
+<img width="786" height="673" alt="image" src="https://github.com/user-attachments/assets/b7656500-465b-4f99-a20a-a202e28d9cb4" />
 
 
 
 ### Classification Report
 
-<img width="632" height="317" alt="image" src="https://github.com/user-attachments/assets/f14ae064-35e0-4052-8657-6f231df52020" />
+<img width="744" height="447" alt="image" src="https://github.com/user-attachments/assets/e2618b33-be72-4f7b-ac8a-b9714c6848ef" />
 
 
 ### New Sample Data Prediction
 
-<img width="1608" height="173" alt="image" src="https://github.com/user-attachments/assets/6d86b099-4d7b-4bca-ad64-be5342f90011" />
+<img width="462" height="124" alt="image" src="https://github.com/user-attachments/assets/621d6069-cefc-4440-aafa-d0b7a98e6e9e" />
 
 <img width="612" height="108" alt="image" src="https://github.com/user-attachments/assets/73f46c71-9b78-4908-8451-ef297b01d5c6" />
 
